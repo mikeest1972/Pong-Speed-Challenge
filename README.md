@@ -19,5 +19,5 @@ git clone https://github.com/mikeest1972/Pong-Speed-Challenge.git
 Check us out for more conntent and for all our cool projects! 
 * [cr-applications.com](http://cr-applications.com) 
 * [@cr_applications](https://www.instagram.com/cr_applications/?hl=en)
-* [Youtube](https://www.youtube.com/channel/UCA9OOzTTavQQDDDJ0uV4mVA)
+* [CR-Applications Youtube](https://www.youtube.com/channel/UCA9OOzTTavQQDDDJ0uV4mVA)
 
